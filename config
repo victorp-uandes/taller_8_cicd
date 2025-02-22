@@ -1,0 +1,4 @@
+Host ec2-34-239-246-233.compute-1.amazonaws.com
+  HostName ec2-34-239-246-233.compute-1.amazonaws.com
+  IdentityFile C:\Users\vic_p\OneDrive\Documents\Maestria\DSIA\key.pem
+  User ubuntu
